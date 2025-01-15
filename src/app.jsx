@@ -8,7 +8,7 @@ export function App() {
 
   return (
     <>
-    Hello world from the demo-1
+    Hello world from the demo-1-app
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} class="logo" alt="Vite logo" />
